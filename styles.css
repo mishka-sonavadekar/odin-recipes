@@ -1,0 +1,11 @@
+/* 
+selectors - HTML elements to be styled
+universal selector (*) applies styles to all elements
+i.e.: *{
+  color: gray;
+}
+ */
+
+ body {
+    background-color: pink;
+ }
